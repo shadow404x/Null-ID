@@ -530,11 +530,11 @@ def main():
             slow_type("Do you want to generate a new identity? (Y/N)", delay=0.03)
             answer = input("Your choice: ").strip().upper()
             if answer != 'Y':
-                slow_type("Exiting... Talk Good about owr tool !", delay=0.05)
+                slow_type("Exiting... Talk Good about The tool !", delay=0.05)
                 break # Exit the loop and end the program
 
     except KeyboardInterrupt:
-        print("\n\nExiting... Talk Good about owr tool !")
+        print("\n\nExiting... Talk Good about The tool !")
         sys.exit(0)
     except Exception as e:
         print(f"\nAn error occurred: {e}")
