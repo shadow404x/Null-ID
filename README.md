@@ -6,7 +6,7 @@ It generates highly realistic fake identities for OSINT, social engineering scen
 ---
 
 ## 🧠 Features:
-- Random full name, age, DOB, nationality
+- Random full name, age, JOB, nationality
 - Fake SSN, address, phone number
 - Fake email, username, password
 - Credit card generator (non-functional)
@@ -30,12 +30,22 @@ It generates highly realistic fake identities for OSINT, social engineering scen
 ## 🔧 Built By:
 
 🇮🇶 Iraqi Shadow  
-Part of the [IQBHTOOLS] team 🛠️  
+Leder of the [IQBH ( Iraqi Black Hat ) ] team 🛠️  
 Proudly made for ethical hacking & red teaming labs.
 
 ---
+
+## 📥 Installation & Setup
+
+### 1. Clone the repository:
+
+```bash
+git clone https://github.com/shadow404x/Null-ID.git
+cd NullID
 
 ## 💣 Example Usage (CLI):
 
 ```bash
 python3 NullID.py
+
+## AND YOU ARE ALL SET !
