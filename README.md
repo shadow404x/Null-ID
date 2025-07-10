@@ -40,3 +40,13 @@ Proudly made for ethical hacking & red teaming labs.
 ```bash
  $ git clone https://github.com/shadow404x/Null-ID.git
  $ python3 NullID.py
+
+
+
+
+
+
+
+
+
+💣 Example Usage (CLI):
