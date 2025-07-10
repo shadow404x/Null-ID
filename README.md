@@ -35,18 +35,9 @@ Proudly made for ethical hacking & red teaming labs.
 
 ---
 
-## 💣 Example Usage (CLI):
+## 💣 Download It (CLI):
 
-```bash
- $ git clone https://github.com/shadow404x/Null-ID.git
- $ python3 NullID.py
+$ git clone https://github.com/shadow404x/Null-ID.git
 
-
-
-
-
-
-
-
-
-💣 Example Usage (CLI):
+Using  (CLI):
+$ python3 NullID.py
