@@ -38,4 +38,4 @@ Proudly made for ethical hacking & red teaming labs.
 ## 💣 Example Usage (CLI):
 
 ```bash
-python3 null-id.py
+python3 NullID.py
