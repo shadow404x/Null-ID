@@ -30,23 +30,12 @@ It generates highly realistic fake identities for OSINT, social engineering scen
 ## 🔧 Built By:
 
 🇮🇶 Iraqi Shadow  
-Leder of the [IQBH ( Iraqi Black Hat ) ] team 🛠️  
+Leder of the [IQBH](Iraqi Black Hat) team 🛠️  
 Proudly made for ethical hacking & red teaming labs.
 
 ---
 
-## 📥 Installation & Setup
-
-### 1. Clone the repository:
-
-```bash
-git clone https://github.com/shadow404x/Null-ID.git
-cd NullID
-
-```See It
 ## 💣 Example Usage (CLI):
 
 ```bash
 python3 NullID.py
-
-## AND YOU ARE ALL SET !
