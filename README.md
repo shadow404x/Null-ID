@@ -39,4 +39,4 @@ Proudly made for ethical hacking & red teaming labs.
 ```bash
 $ git clone https://github.com/shadow404x/Null-ID.git
 $ cd Null-ID
-$ python3 Null-ID.py
+$ python3 NullID.py
