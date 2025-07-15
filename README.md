@@ -38,5 +38,5 @@ Proudly made for ethical hacking & red teaming labs.
 ## 💣 Download It (CLI):
 ```bash
 $ git clone https://github.com/shadow404x/Null-ID.git
-$ cd Null-IF
+$ cd Null-ID
 $ python3 Null-ID.py
